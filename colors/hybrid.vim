@@ -135,7 +135,7 @@ if exists("g:hybrid_custom_term_colors") && g:hybrid_custom_term_colors == 1
   let s:cterm_delbg      = "9"   " LightRed
 else
   let s:cterm_foreground = "250"
-  let s:cterm_selection  = "237"
+  let s:cterm_selection  = "239"
   let s:cterm_line       = "235"
   let s:cterm_comment    = "243"
   let s:cterm_red        = "167"
@@ -148,7 +148,7 @@ else
   let s:cterm_delbg      = "167"
 endif
 
-let s:palette.cterm.background = { 'dark' : "234"              , 'light' : "254" }
+let s:palette.cterm.background = { 'dark' : "236"              , 'light' : "254" }
 let s:palette.cterm.foreground = { 'dark' : s:cterm_foreground , 'light' : "16"  }
 let s:palette.cterm.window     = { 'dark' : "236"              , 'light' : "247" }
 let s:palette.cterm.selection  = { 'dark' : s:cterm_selection  , 'light' : "250" }
