@@ -78,6 +78,24 @@ let s:style = &background
 
 let g:colors_name = "hybrid"
 
+" Terminal colors
+let g:terminal_color_0 = "#000000"
+let g:terminal_color_8 = "#686868"
+let g:terminal_color_1 = "#c0392b"
+let g:terminal_color_9 = "#e74c3c"
+let g:terminal_color_2 = "#27ae60"
+let g:terminal_color_10 = "#2ecc71"
+let g:terminal_color_3 = "#f39c12"
+let g:terminal_color_11 = "#f1c40f"
+let g:terminal_color_4 = "#2980b9"
+let g:terminal_color_12 = "#3498db"
+let g:terminal_color_5 = "#8e44ad"
+let g:terminal_color_13 = "#9b59b6"
+let g:terminal_color_6 = "#16a085"
+let g:terminal_color_14 = "#1abc9c"
+let g:terminal_color_7 = "#c7c7c7"
+let g:terminal_color_15 = "#ffffff"
+
 "}}}
 " GUI And Cterm Palettes:"{{{
 " ----------------------------------------------------------------------------
